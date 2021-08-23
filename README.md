@@ -67,3 +67,7 @@ https://wwwhomes.uni-bielefeld.de/achim/prime_sieve.html
 Algorithm how to estimate the cache size for a range of numbers used in this
 project.
 https://math.stackexchange.com/questions/642775/number-of-prime-numbers-in-a-rang
+
+Video about prime numbers ordering in spirals. This video inspired me for this
+project.
+https://youtu.be/EK32jo7i5LQ
